@@ -1,0 +1,1 @@
+window.open('http://timetracking.cl/empresas', '_self', 'location=no,zoom=no');
